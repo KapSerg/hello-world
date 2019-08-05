@@ -1,3 +1,3 @@
 # hello-world
-Hi Himans!
+Hi Humans!
 just another repository
